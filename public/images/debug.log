@@ -1,0 +1,5 @@
+[0720/205158.034:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0720/205158.248:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0720/205718.316:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0724/172813.979:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0724/230011.089:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
